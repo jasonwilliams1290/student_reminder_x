@@ -4,6 +4,8 @@ import 'package:students_reminder/src/core/bootstrap.dart';
 import 'package:students_reminder/src/features/splash/splash_gate.dart';
 import 'package:students_reminder/src/shared/routes.dart';
 
+jjhgjhgjhblkjnkm 
+
 void main() async {
   await initFirebase();
   runApp(const StudentsReminderApp());
